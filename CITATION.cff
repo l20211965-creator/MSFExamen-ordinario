@@ -2,7 +2,7 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: ' Practica 2 Sistema Cardiovascular '
+title: ' Examen Ordinario: Sistema Cardiovascular '
 message: 'Modelado de sistemas fisiologicos / Ingenieria Biomedica '
 type: software
 authors:
@@ -12,13 +12,13 @@ authors:
     affiliation: Instituto tecnologico de tijuana
 identifiers:
   - type: url
-    value: 'https://github.com/l20211965-creator/MSFPractica2'
+    value: 'https://github.com/l20211965-creator/MSF'
     description: Repositorio Git Hub
-repository-code: 'https://github.com/l20211965-creator/MSFPractica2'
-url: 'https://github.com/l20211965-creator/MSFPractica2'
+repository-code: 'https://github.com/l20211965-creator/MSFExamen-ordinario'
+url: 'https://github.com/l20211965-creator/MSFExamen-ordinario'
 keywords:
-  - Hipotenso
-  - Hipertenso
+  - Cardiovascular
+  - flujo sanguineo
   - control
   - sistema
   - 'controlador '
